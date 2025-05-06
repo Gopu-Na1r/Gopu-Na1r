@@ -1,5 +1,5 @@
 # Hello, I'm Gopu 👋  
-<a href="www.linkedin.com/in/gopunairofficial"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gopunairofficial"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast with hands-on experience in SIEM tools, network traffic analysis, and real-time log monitoring. Currently working toward building a strong foundation in threat detection and incident response, with a goal of becoming a Tier 1 SOC Analyst.
 
@@ -58,4 +58,5 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 
 ---
 
-**Let’s connect and grow together in cybersecurity!**
+**Let’s connect and grow together in cybersecurity!**  
+🔗 [linkedin.com/in/gopunairofficial](https://www.linkedin.com/in/gopunairofficial)
