@@ -10,17 +10,17 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 
 ## 🛠️ Skills & Projects
 
-| Skill                                         | Project / Use Case                                      |
-|----------------------------------------------|----------------------------------------------------------|
-| **Splunk** (Search, Dashboards, Log Analysis) | SIEM deployment and real-time dashboard using Zeek logs  |
-| **Zeek** (Network Security Monitor)           | Used for generating real-time logs for analysis          |
-| **ELK Stack** (Elasticsearch, Logstash, Kibana) | ELK SIEM setup for real-time log visualization           |
-| **Wireshark** (Traffic Capture & Analysis)    | Analyzed PCAP files and live traffic                     |
-| **Snort** (IDS/IPS)                           | Used for network intrusion detection                     |
-| **Syslog (rsyslog)**                          | Configured as Event Collector for centralized logging    |
-| **Linux (Ubuntu)**                            | Deployed SIEM tools and configured servers               |
-| **Apache Web Server**                         | Hosted personal educational web project "Defents"        |
-| **Basic SQL**                                 | Applied in data filtering and log queries                |
+| Skill                                         | Project / Use Case                                                                 |
+|----------------------------------------------|-------------------------------------------------------------------------------------|
+| **Splunk** (Search, Dashboards, Log Analysis) | [Building Real-Time Dashboard using Zeek Logs](https://medium.com/@ggopu7347/building-a-real-time-dashboard-in-splunk-using-zeek-logs-65c9f23db724) |
+| **Zeek** (Network Security Monitor)           | [Installing and Configuring Zeek](https://medium.com/@ggopu7347/installing-and-configuring-zeek-on-ubuntu-22-04-9809c124bc79) |
+| **ELK Stack** (Elasticsearch, Logstash, Kibana) | [ELK Stack Setup Guide](https://medium.com/@ggopu7347/step-by-step-guide-to-installing-elk-stack-on-ubuntu-a04528459d88) |
+| **Wireshark** (Traffic Capture & Analysis)    | Analyzed PCAP files and live traffic                                               |
+| **Snort** (IDS/IPS)                           | [Installing and Configuring Snort](https://medium.com/@ggopu7347/installation-and-configuration-of-snort-on-ubuntu-b00fb64f30af) |
+| **Syslog (rsyslog)**                          | Configured as Event Collector for centralized logging                              |
+| **Linux (Ubuntu)**                            | Deployed SIEM tools and configured servers                                         |
+| **Apache Web Server**                         | Hosted personal educational web project "Defents"                                  |
+| **Basic SQL**                                 | Applied in data filtering and log queries                                          |
 
 ---
 
@@ -44,10 +44,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 
 ## 📂 Key Projects
 
-- **SIEM Deployment and Real-Time Dashboard using Splunk and Zeek**  
+- **[SIEM Deployment and Real-Time Dashboard using Splunk and Zeek](https://medium.com/@ggopu7347/building-a-real-time-dashboard-in-splunk-using-zeek-logs-65c9f23db724)**  
   Deployed Zeek as a network monitor and forwarded logs to Splunk for live dashboards and security analysis.
 
-- **ELK SIEM Setup**  
+- **[ELK SIEM Setup](https://medium.com/@ggopu7347/step-by-step-guide-to-installing-elk-stack-on-ubuntu-a04528459d88)**  
   Configured Elasticsearch, Logstash, and Kibana for centralized log collection and threat visualization.
 
 ---
