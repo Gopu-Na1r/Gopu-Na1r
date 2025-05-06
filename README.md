@@ -1,7 +1,7 @@
 # Hello, I'm Gopu 👋  
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity trainer and learner with hands-on experience in SIEM tools, network traffic analysis, and incident detection. I'm currently pursuing a degree through distance education while preparing for a role as a Tier 1 SOC Analyst.
+I’m a cybersecurity trainer and learner with hands-on experience in SIEM tools, network traffic analysis, and incident detection. 
 
 ## 🎯 Objective
 To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply my skills in Splunk, ELK, Zeek, log analysis, and incident response.
