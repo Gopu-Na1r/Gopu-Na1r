@@ -1,10 +1,10 @@
 # Hello, I'm Gopu 👋  
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity trainer and learner with hands-on experience in SIEM tools, network traffic analysis, and incident detection. 
+I’m a cybersecurity enthusiast with hands-on experience in SIEM tools, network traffic analysis, and real-time log monitoring. Currently working toward building a strong foundation in threat detection and incident response, with a goal of becoming a Tier 1 SOC Analyst.
 
 ## 🎯 Objective
-To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply my skills in Splunk, ELK, Zeek, log analysis, and incident response.
+To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply my skills in Splunk, ELK, Zeek, log analysis, and incident detection.
 
 ---
 
@@ -12,16 +12,15 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 
 | Skill                                         | Project / Use Case                                      |
 |----------------------------------------------|----------------------------------------------------------|
-| **Splunk** (Search, Dashboards, Log Analysis) | Used to analyze Zeek logs in real-time                   |
-| **Zeek** (Network Security Monitor)           | Generates logs from simulated network attacks            |
-| **ELK Stack (Elasticsearch, Logstash, Kibana)** | Built dashboards and visualized logs from Zeek/network devices |
-| **Real-Time Security Dashboards**             | Created in both Splunk and Kibana                        |
-| **Syslog (rsyslog)**                          | Used as Event Collector for QRadar                       |
-| **Event Parsing**                             | Applied parsing techniques in Splunk and Logstash        |
-| **Linux (Ubuntu)**                            | Setup web servers and SIEM tools                         |
-| **Apache Web Server**                         | Hosted a project website named "Defents"                 |
-| **Basic SQL**                                 | Learned to write queries and understand injection risks  |
-| **Cybersecurity Teaching**                    | Conducted sessions for students on Splunk, ELK, and network logs |
+| **Splunk** (Search, Dashboards, Log Analysis) | SIEM deployment and real-time dashboard using Zeek logs  |
+| **Zeek** (Network Security Monitor)           | Used for generating real-time logs for analysis          |
+| **ELK Stack** (Elasticsearch, Logstash, Kibana) | ELK SIEM setup for real-time log visualization           |
+| **Wireshark** (Traffic Capture & Analysis)    | Analyzed PCAP files and live traffic                     |
+| **Snort** (IDS/IPS)                           | Used for network intrusion detection                     |
+| **Syslog (rsyslog)**                          | Configured as Event Collector for centralized logging    |
+| **Linux (Ubuntu)**                            | Deployed SIEM tools and configured servers               |
+| **Apache Web Server**                         | Hosted personal educational web project "Defents"        |
+| **Basic SQL**                                 | Applied in data filtering and log queries                |
 
 ---
 
@@ -45,33 +44,17 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 
 ## 📂 Key Projects
 
-- **Zeek & Splunk Integration**  
-  Setup a real-time security monitoring system with Zeek logs ingested into Splunk dashboards.
+- **SIEM Deployment and Real-Time Dashboard using Splunk and Zeek**  
+  Deployed Zeek as a network monitor and forwarded logs to Splunk for live dashboards and security analysis.
 
-- **Zeek & ELK Stack Integration**  
-  Parsed and visualized Zeek logs using Logstash and Kibana to detect anomalies.
-
-- **Defents (Educational Website)**  
-  Created a site to teach basic cybersecurity defense techniques.
-
-- **Splunk Workshop (Beginner to Advanced)**  
-  Guided students through Splunk concepts including Search Head, Indexer, Heavy Forwarder, and Deployment Server.
+- **ELK SIEM Setup**  
+  Configured Elasticsearch, Logstash, and Kibana for centralized log collection and threat visualization.
 
 ---
 
 ## 🏅 Certification
 
-- CSA (Certified SOC Analyst – EC-Council)
-
----
-
-## 📚 Learning Focus
-
-- Regular Expressions for threat detection  
-- Kibana visualizations (beginner to expert)  
-- Logstash pipelines and parsing  
-- SOC tools and processes  
-- Real-world attack detection scenarios
+![CSA](https://img.shields.io/badge/-CSA_(Certified_SOC_Analyst)-008000?&style=for-the-badge&logo=EC-Council&logoColor=white)
 
 ---
 
