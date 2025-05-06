@@ -27,17 +27,17 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply
 ## 🧰 Tools I Work With
 
 ### Network Monitoring  
-![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)  
+![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white)
 
 ### SIEM & Log Management  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)  
-![QRadar](https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white)  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
 
 ### Web & Systems  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache_Web_Server-D22128?&style=for-the-badge&logo=Apache&logoColor=white)
 
 ---
